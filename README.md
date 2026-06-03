@@ -1,3 +1,4 @@
 # project1-demo
-This is my first repository.
+This is my First Git Repository.
+<br>
 Author - Amit
